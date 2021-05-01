@@ -1,0 +1,27 @@
+{
+  "symbol": "ESTC",
+  "name": "Free-Estimation Coin",
+  "type": "ERC20",
+  "address": "0xfb5e8b1add197c3f18f27345d2e8c06127a3899c",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "support@free-estimation.com", "url": "http://www.free-estimation.com" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
